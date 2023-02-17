@@ -1,0 +1,1 @@
+#define ENABLE_BLOCK_DROP_MAP
